@@ -1,0 +1,80 @@
+html{
+
+}
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@500&display=swap');
+@font-face{
+    font-family: terma;
+    src: url('./Fonts/CutiveMono-Regular.ttf');
+}
+
+body{
+    background-color: black;
+    background-image: url("./Image/PUBGBGM.jpg");
+    background-repeat: repeat-y;
+    background-size: 1080px 1960px;
+    font-family: terma}
+
+    
+h1{
+   color: whitesmoke;
+   text-shadow: 1px 1px 5px blue;
+   text-align: center;
+   font-size: 80px;
+   text-decoration: underline;
+   font-weight: 900;
+   
+   
+}
+h4{
+    color: yellow;
+    font-size: 30px;
+}
+.p1,.p2{
+    text-decoration: solid;
+    color: rgb(143, 236, 143);
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+    
+}
+.p1{
+text-decoration: solid;
+
+}
+h4{
+
+}
+.list{
+    color: beige;
+    text-align: left;
+    line-height: 30px;
+    font-size: 30px;
+    font-weight: 800;
+    
+}
+strong{
+    color: rgb(255, 0, 0);
+}
+
+.contact{
+    text-align: center;
+    color: cyan;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+table{
+    color: aliceblue;
+    text-align: center;
+    border: 1px solid rgb(7, 53, 220);
+    border-collapse: collapse;
+    text-decoration: solid;
+    font
+    
+    
+ }
+ tr,td,th{
+    border: 1px solid rgb(7, 53, 220); 
+}
