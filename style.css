@@ -10,32 +10,36 @@ html{
 }
 
 body{
-    background-color: black;
-    background-image: url("./Image/PUBGBGM.jpg");
-    background-repeat: repeat-y;
-    background-size: 1080px 1960px;
-    font-family: terma}
+    background-color: rgb(255, 255, 255);
+    background-image: url("./Image/image.webp");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+    background-size: height 100%;
+    font-family: terma;
+    
+}
 
     
 h1{
-   color: whitesmoke;
+   color: rgb(0, 0, 0);
    text-shadow: 1px 1px 5px blue;
    text-align: center;
-   font-size: 80px;
+   font-size: 40px;
    text-decoration: underline;
    font-weight: 900;
    
    
 }
 h4{
-    color: yellow;
-    font-size: 30px;
+    color: rgb(2, 5, 55) 17, 255);
+    font-size: 15px;
 }
 .p1,.p2{
     text-decoration: solid;
-    color: rgb(143, 236, 143);
+    color: rgb(9, 31, 119);
     text-align: center;
-    font-size: 30px;
+    font-size: 15px;
     font-weight: 900;
     
 }
@@ -47,10 +51,10 @@ h4{
 
 }
 .list{
-    color: beige;
+    color: rgb(254, 254, 11)45, 220, 245);
     text-align: left;
-    line-height: 30px;
-    font-size: 30px;
+    line-height: 15px;
+    font-size: 15px;
     font-weight: 800;
     
 }
@@ -61,20 +65,21 @@ strong{
 .contact{
     text-align: center;
     color: cyan;
-    font-size: 30px;
+    font-size: 15px;
     font-weight: 700;
 }
 
 table{
-    color: aliceblue;
+    color: rgb(0, 25, 47);
     text-align: center;
-    border: 1px solid rgb(7, 53, 220);
+    border: 1px solid rgb(0, 0, 0);
     border-collapse: collapse;
     text-decoration: solid;
-    font
+    line-height: 15px;
+    font-weight: 900;
     
     
  }
  tr,td,th{
-    border: 1px solid rgb(7, 53, 220); 
+    border: 1px solid rgb(0, 0, 0); 
 }
